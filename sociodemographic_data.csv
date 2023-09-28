@@ -1,0 +1,28 @@
+,Name,Location,Entrance_exam,HSO_grades,Sex,Migration background,Acts of community service,Did paid work,High SES family,Predicted increate in happiness/life,Future 40 hr days in field worked
+0,Mukul,Amsterdam Ooost,56000.0,90,M,True,False,True,False,-100,0
+1,Rohan,Gronigen,55000.0,98,F,False,False,True,False,0,800
+2,Mayank,Zaandam,61000.0,67,M,True,True,True,True,59,59000
+3,Art,Arnem,45000.0,59,M,False,True,False,True,70,360
+4,Dirk,Leiden,62000.0,76,M,False,False,True,False,80,80
+5,Sander,Het Gooie,90.0,56,M,True,False,True,True,10,10
+6,Vedansh,Het Gooie,64000.0,99,M,True,True,True,True,50,50000
+7,Krishna,Het Gooie,65000.0,98,M,True,True,True,True,10,10000
+8,Kiki,Het Gooie,56000.0,97,M,True,False,True,True,20,2000
+9,Pim,Het Gooie,64000.0,99,M,False,True,False,True,98,9800
+10,Lars,Het Gooie,65000.0,98,M,False,True,False,True,97,9700
+11,Markus,Het Gooie,56000.0,97,M,False,True,False,True,96,9600
+12,Walter,Amsterdam Central,56000.0,98,M,True,True,False,True,95,950
+13,Mateusz,Zaandam,55000.0,67,F,True,True,True,True,87,87
+14,Zoko,Zaandam,61000.0,78,M,True,True,False,True,23,23
+15,Maaike,Sici,45000.0,89,M,True,True,True,False,1,100
+16,Diana,Xang,62000.0,56,F,False,False,True,False,2,2000
+17,Natalie,Groot,990.0,56,M,False,False,False,False,3,3600
+18,Nadine,Orange,56000.0,65,M,False,False,True,False,-9,9000
+19,Floris,Zezu,55000.0,76,F,False,False,True,False,-90,9000
+20,Johan,Hilleike,61000.0,87,M,False,False,False,False,-100,90100
+21,Lieke,Enschede,57000.0,85,F,False,False,True,True,-80,8000
+22,Maaike,Rotterdam,57001.0,85,F,False,False,True,True,34,360
+23,Nousrat,Zeeland,56999.0,87,F,True,True,True,False,10,2310
+24,Ricardo,Zwolle,57000.0,45,M,False,False,False,False,50,3650
+25,Givany,Breda,57005.0,85,F,False,False,False,False,10,3710
+26,Florian,Gouda,56999.0,85,M,False,False,False,False,20,3920
